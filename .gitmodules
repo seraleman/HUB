@@ -1,3 +1,6 @@
 [submodule "hub_auth_ms"]
 	path = hub_auth_ms
 	url = https://github.com/seraleman/hub_auth_ms
+[submodule "hub_api_gateway"]
+	path = hub_api_gateway
+	url = https://github.com/seraleman/hub_api_gateway
