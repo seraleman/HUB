@@ -4,3 +4,6 @@
 [submodule "hub_api_gateway"]
 	path = hub_api_gateway
 	url = https://github.com/seraleman/hub_api_gateway
+[submodule "hub_logger_ms"]
+	path = hub_logger_ms
+	url = https://github.com/seraleman/hub_logger_ms
