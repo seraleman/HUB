@@ -9,9 +9,9 @@ Este módulo cumple la función de unificar los diferentes repositorios de los c
 ## Uso
 
 - Clonar el repositorio junto con sus submódulos
-  $ git clone --recurse-submodules URL
+  `$ git clone --recurse-submodules URL`
 
 - Actualiza el repositorio de submódulos
-  $ git submodule update --remote
+  `$ git submodule update --remote`
 
 ---
